@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{EB5F1F25-AEA5-467E-AD1C-6B2DCC68B061}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JWTAuth.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWTAuth.WebApi/appsettings.json">
+    <Files>
+      <File FileName="JWTAuth.WebApi/Models/Vendedor.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/VendedorController.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/VendedorRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Interface/IAVendedor.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/TokenController.cs" />
+      <File FileName="JWTAuth.WebApi/Models/Administradores.cs" />
+      <File FileName="JWTAuth.WebApi/appsettings.json" Line="19" Column="1" />
+      <File FileName="JWTAuth.WebApi/Program.cs" />
+      <File FileName="JWTAuth.WebApi/appsettings.Development.json" />
+      <File FileName="JWTAuth.WebApi/Repository/VentasRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Interface/IDirectorios.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/UserController.cs" />
+      <File FileName="JWTAuth.WebApi/Properties/launchSettings.json" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/JWTWebApi-Auth - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/apimunicipioatizapan - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/apiproyecto - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/autosmysql - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/jwtaappservice - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/jwtappapi - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/jwtappservice - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Properties/PublishProfiles/JWTAuth-WebApiservice - Zip Deploy.pubxml" />
+      <File FileName="JWTAuth.WebApi/Repository/UserRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/TarjetasRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/ReporteRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/EventoRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/DirectorioRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Repository/AlertaRepository.cs" />
+      <File FileName="JWTAuth.WebApi/Models/LoginuserModelo2.cs" />
+      <File FileName="JWTAuth.WebApi/Models/LoginUserModelo.cs" />
+      <File FileName="JWTAuth.WebApi/Models/Evento.cs" />
+      <File FileName="JWTAuth.WebApi/Models/Email.cs" />
+      <File FileName="JWTAuth.WebApi/Models/DatabaseContext.cs" />
+      <File FileName="JWTAuth.WebApi/Models/AlertaModelo (copiar).cs" />
+      <File FileName="JWTAuth.WebApi/Models/Alerta.cs" />
+      <File FileName="JWTAuth.WebApi/Interface/IAlertas.cs" />
+      <File FileName="JWTAuth.WebApi/Interface/IAVentas.cs" />
+      <File FileName="JWTAuth.WebApi/Interface/IEventos.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/AlertaController.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/DirectorioController.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/EventoController.cs" />
+      <File FileName="JWTAuth.WebApi/Controllers/VentasController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWTAuth" expanded="True">
+            <Node name="JWTAuth.WebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
